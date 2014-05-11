@@ -1,0 +1,28 @@
+@font-face {
+	font-family: font;
+	src: url('Github/Microsplashing2/fonts/aquafont.ttf');
+}
+
+.columns1 {
+	width: 65%;
+}
+
+.columns2 {
+	position:relative;
+	top: -310px;
+	float: right;
+	width: 32% ;
+	margin-bottom: -200px;
+}
+
+.undernav {
+	position:relative;
+	top: -8px;
+	-webkit-box-shadow: 0 2px 2px rgba(0, 0, 0, .05);
+	box-shadow: 0 2px 2px rgba(0, 0, 0, .05);
+}
+
+.wrap { 
+	width: 80%; 
+	margin: 0 auto; 
+}
