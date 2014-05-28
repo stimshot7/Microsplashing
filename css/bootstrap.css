@@ -5791,6 +5791,11 @@ button.close {
 #edupad {
 	padding-top: 10px;
 	}
+#buttonpad {
+	padding-top: 20px;
+	padding-bottom: 50px;
+	}	
+	
 	
 	
 	/* Single-direction drop shadow */
