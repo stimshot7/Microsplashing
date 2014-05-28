@@ -5794,7 +5794,11 @@ button.close {
 #buttonpad {
 	padding-top: 20px;
 	padding-bottom: 50px;
-	}	
+	}
+#edupadrow {
+	padding-bottom: 50px;
+	padding-top: 50px;
+	}
 	
 	
 	
